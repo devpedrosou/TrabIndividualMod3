@@ -1,7 +1,5 @@
 # TrabIndividualMod3
-Trabalho individual número 3 do curso programadores cariocas no mercado do seguro, CNSeg 2024
-# RelatoriosDeProgresso
-Módulo 3 | Projeto Individual | Relatórios de Progresso | [Notebook](https://colab.research.google.com/drive/1bKvmnF5_3zhRbT0dZPPf5VEPhFauV3py?usp=sharing)
+Trabalho individual número 3 do curso programadores cariocas no mercado do seguro, CNSeg 2024(https://colab.research.google.com/drive/1bKvmnF5_3zhRbT0dZPPf5VEPhFauV3py?usp=sharing)
 
 # Contexto
 Uma empresa de desenvolvimento de softwares possui uma tabela com os seguintes dados e deseja um RELATÓRIO que você irá ajudar a construir!
