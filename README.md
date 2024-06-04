@@ -49,11 +49,11 @@ Gerar um relatório de progresso diário para mostrar o quão produtivo está se
 
 ### Horas Trabalhadas, Bugs Corrigidos e Tarefas Concluídas por Dia
 
-![Horas, Bugs, Tarefas por Dia](grafico1.png)
+![Horas, Bugs, Tarefas por Dia](img/grafico1.png)
 
 ### Produtividade Diária (Tarefas Concluídas por Hora)
 
-![Produtividade Diária](grafico2.png)
+![Produtividade Diária](img/grafico2.png)
 
 ## Conclusões e Insights
 
